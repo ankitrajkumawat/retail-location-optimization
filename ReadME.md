@@ -1,7 +1,5 @@
 # Retail Location Optimization in Bengaluru
 
-![Project Banner](https://i.imgur.com/xyz123.png)
-
 A geospatial data science project that identifies optimal retail locations in Bengaluru using OpenStreetMap data and machine learning.
 
 ## Table of Contents
@@ -51,7 +49,7 @@ from sklearn.ensemble import RandomForestRegressor  # ML modeling
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/retail-location-optimization.git
+git clone https://github.com/ankitrajkumawat/retail-location-optimization.git
 cd retail-location-optimization
 Set up virtual environment:
 
